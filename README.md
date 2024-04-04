@@ -17,4 +17,4 @@ SecureChatApp: An end-to-end encrypted messaging application designed to ensure 
 VulnScan: A custom-built vulnerability scanner that leverages automation to identify security flaws in web applications.
 PhishDetect: An AI-powered tool to detect and alert users to phishing attempts in real time.
 
-### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skelpo1)](https://github.com/anuraghazra/github-readme-stats)
+###                                                             [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skelpo1)](https://github.com/anuraghazra/github-readme-stats)
