@@ -14,7 +14,7 @@ Frameworks & Platforms: Node.js, React, Docker, AWS
 📚 Projects:
 
 SecureChatApp: An end-to-end encrypted messaging application designed to ensure private communications.
-VulnScan: A custom-built vulnerability scanner that leverages automation to identify security flaws in web applications.
-PhishDetect: An AI-powered tool to detect and alert users to phishing attempts in real time.
+File Integrity Monitor: A constant file monitor, tracking and logging inputs into specified files.
+
 
 ###                                                             [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skelpo1)](https://github.com/anuraghazra/github-readme-stats)
