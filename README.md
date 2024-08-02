@@ -17,4 +17,4 @@ SecureChatApp: An end-to-end encrypted messaging application designed to ensure 
 File Integrity Monitor: A constant file monitor, tracking and logging inputs into specified files.
 
 
-###                                                             [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skelpo1)](https://github.com/anuraghazra/github-readme-stats)
+###################################                                                             [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skelpo1)](https://github.com/anuraghazra/github-readme-stats)
