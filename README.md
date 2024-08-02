@@ -1,5 +1,5 @@
-### Cybersecurity Enthusiast and Developer
-🔒 Welcome to my GitHub! I'm Keirn, a passionate cybersecurity enthusiast and developer dedicated to enhancing digital security and privacy. With a keen interest in ethical hacking, network security, and the development of secure software, my mission is to fortify the digital landscape against evolving threats.
+### Cybersecurity student and Enthusiast, Developer
+🔒 Welcome to my GitHub! I'm Keirn, a passionate cybersecurity student and a developer dedicated to enhancing digital security and privacy. With a keen interest in ethical hacking, network security, and the development of secure software, my mission is to fortify the digital landscape against evolving threats.
 
 👨‍💻 What I Do:
 
