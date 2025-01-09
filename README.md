@@ -9,7 +9,9 @@ Research and Education: Continuously exploring the latest cybersecurity trends, 
 🛠 Tech Stack and Tools:
 
 Languages: Python, JavaScript, C++, Bash scripting
+<br>
 Tools & Technologies: Kali Linux, Metasploit, Wireshark, Burp Suite, OWASP ZAP, Docker
+<br>
 Frameworks & Platforms: Node.js, React, Docker, AWS
 📚 Projects:
 
