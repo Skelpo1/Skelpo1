@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------
 
-🔒 Welcome to my GitHub! I'm Keirn, a passionate Cyber Security student and a developer dedicated to enhancing digital security and privacy. With a keen interest in ethical hacking, network security, and the development of secure software, my mission is to fortify the digital landscape against evolving threats.
+🔒 Welcome to my GitHub! I'm Keirn. I'm a passionate Cyber Security student and a developer dedicated to enhancing digital security and privacy. With a keen interest in ethical hacking, network security, and the development of secure software, my mission is to fortify the digital landscape against evolving threats.
 
 👨‍💻 What I Do:
 
